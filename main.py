@@ -11,7 +11,7 @@ import time
 TOKEN = "7669714776:AAEzSzAusOsKGzGknKcD2I1dX7Q1pUFi6rQ"
 DEEPSEEK_API_KEY = "sk-fefb48f89f7b4e32bc6b214ef739b248"
 ADMIN_ID = 5978150981
-WEBHOOK_URL = "https://spam-remover-bot-1.onrender.com"
+WEBHOOK_URL = "https://my-bot-xjig.onrender.com"
 
 USERS_FILE = 'users.json'
 MEMORY_FILE = 'user_memory.json'
